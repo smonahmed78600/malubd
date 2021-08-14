@@ -1,38 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//smonahmed78600.github.io/malubd/wp-content/plugins/wordpress-seo-premium/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//malubd.org/wp-content/plugins/wordpress-seo-premium/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://smonahmed78600.github.io/malubd/</loc>
+		<loc>https://malubd.org/</loc>
 	</url>
 	<url>
-		<loc>https://smonahmed78600.github.io/malubd/sample-page/</loc>
+		<loc>https://malubd.org/sample-page/</loc>
 		<lastmod>2021-08-14T17:13:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://smonahmed78600.github.io/malubd/trending/</loc>
+		<loc>https://malubd.org/trending/</loc>
 		<lastmod>2021-08-14T17:19:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://smonahmed78600.github.io/malubd/ratings/</loc>
+		<loc>https://malubd.org/ratings/</loc>
 		<lastmod>2021-08-14T17:19:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://smonahmed78600.github.io/malubd/account/</loc>
+		<loc>https://malubd.org/account/</loc>
 		<lastmod>2021-08-14T17:19:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://smonahmed78600.github.io/malubd/contact/</loc>
+		<loc>https://malubd.org/contact/</loc>
 		<lastmod>2021-08-14T17:19:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://smonahmed78600.github.io/malubd/blog/</loc>
+		<loc>https://malubd.org/blog/</loc>
 		<lastmod>2021-08-14T17:19:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://smonahmed78600.github.io/malubd/imdb/</loc>
+		<loc>https://malubd.org/imdb/</loc>
 		<lastmod>2021-08-14T17:19:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://smonahmed78600.github.io/malubd/jwplayer/</loc>
+		<loc>https://malubd.org/jwplayer/</loc>
 		<lastmod>2021-08-14T17:19:47+00:00</lastmod>
 	</url>
 </urlset>
