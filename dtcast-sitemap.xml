@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//malubd.org/wp-content/plugins/wordpress-seo-premium/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://malubd.org/cast/adil-hussain/</loc>
+		<lastmod>2021-08-19T19:02:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://malubd.org/cast/akshay-kumar/</loc>
+		<lastmod>2021-08-19T19:02:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://malubd.org/cast/andrew-koji/</loc>
+		<lastmod>2021-08-19T19:07:37+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://malubd.org/cast/bob-bergen/</loc>
 		<lastmod>2021-08-18T19:38:39+00:00</lastmod>
 	</url>
@@ -25,6 +37,10 @@
 		<lastmod>2021-08-18T19:38:39+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://malubd.org/cast/eri-ishida/</loc>
+		<lastmod>2021-08-19T19:07:37+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://malubd.org/cast/eric-bauza/</loc>
 		<lastmod>2021-08-18T19:38:39+00:00</lastmod>
 	</url>
@@ -37,8 +53,24 @@
 		<lastmod>2021-08-18T19:38:39+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://malubd.org/cast/haruka-abe/</loc>
+		<lastmod>2021-08-19T19:07:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://malubd.org/cast/henry-golding/</loc>
+		<lastmod>2021-08-19T19:07:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://malubd.org/cast/huma-qureshi/</loc>
+		<lastmod>2021-08-19T19:02:13+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://malubd.org/cast/idris-elba/</loc>
 		<lastmod>2021-08-18T20:00:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://malubd.org/cast/iko-uwais/</loc>
+		<lastmod>2021-08-19T19:07:37+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://malubd.org/cast/jai-courtney/</loc>
@@ -57,6 +89,10 @@
 		<lastmod>2021-08-18T20:00:58+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://malubd.org/cast/lara-dutta/</loc>
+		<lastmod>2021-08-19T19:02:13+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://malubd.org/cast/lebron-james/</loc>
 		<lastmod>2021-08-18T19:38:39+00:00</lastmod>
 	</url>
@@ -69,12 +105,40 @@
 		<lastmod>2021-08-18T20:00:58+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://malubd.org/cast/peter-mensah/</loc>
+		<lastmod>2021-08-19T19:07:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://malubd.org/cast/samara-weaving/</loc>
+		<lastmod>2021-08-19T19:07:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://malubd.org/cast/steven-allerick/</loc>
+		<lastmod>2021-08-19T19:07:37+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://malubd.org/cast/sylvester-stallone/</loc>
 		<lastmod>2021-08-18T20:00:58+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://malubd.org/cast/takehiro-hira/</loc>
+		<lastmod>2021-08-19T19:07:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://malubd.org/cast/ursula-corbero/</loc>
+		<lastmod>2021-08-19T19:07:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://malubd.org/cast/vaani-kapoor/</loc>
+		<lastmod>2021-08-19T19:02:13+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://malubd.org/cast/viola-davis/</loc>
 		<lastmod>2021-08-18T20:00:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://malubd.org/cast/zain-khan-durrani/</loc>
+		<lastmod>2021-08-19T19:02:13+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://malubd.org/cast/zendaya/</loc>
